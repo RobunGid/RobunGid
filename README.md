@@ -13,7 +13,7 @@
 
 🗂️ I have a fairly high level of reading and listening comprehension in English, and an intermediate level in speaking. 📖👂🗣️
 
-🎨 I possess experience with a range of software programs, including Photoshop, Blender, Paint.NET, Audacity, and Sony Vegas Pro 20.0. 🖥️🎬✨
+🎨 I possess experience with a range of software programs, including Photoshop, Blender, Paint.NET, Audacity, and Sony Vegas Pro 20.0 🖥️🎬✨
 
 🐧 Additionally, I have developed basic skills in Linux, specifically Ubuntu. 💻🚀🔧
 
@@ -21,7 +21,7 @@
 
 🦉 Moreover, I maintain a daily streak of over 570 days on Duolingo. 📚🏆🎉
 ## 🛠 Skills
-Javascript, HTML, CSS, Git, Chat GPT
+Javascript, HTML, CSS, Git, Chat GPT, Python
 
 
 ## 🔗 Links
