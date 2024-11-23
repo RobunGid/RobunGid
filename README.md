@@ -19,9 +19,12 @@
 
 🤖 My experience also includes working with ChatGPT. 💬🔍
 
-🦉 Moreover, I maintain a daily streak of over 570 days on Duolingo. 📚🏆🎉
+🦉 Moreover, I maintain a daily streak of over 600 days on Duolingo. 📚🏆🎉
+
 ## 🛠 Skills
-Javascript, HTML, CSS, Git, Chat GPT, Python
+Javascript, HTML, CSS, Git
+Vite, browserify, npm, yarn
+Chat GPT, Python
 
 
 ## 🔗 Links
