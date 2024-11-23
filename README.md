@@ -22,9 +22,9 @@
 🦉 Moreover, I maintain a daily streak of over 600 days on Duolingo. 📚🏆🎉
 
 ## 🛠 Skills
-JavaScript | HTML | CSS | Git | GitHub  
-Vite | browserify | npm | yarn  
-Chat GPT | Python  
+JavaScript ★ HTML ★ CSS ★ Git ★ GitHub  
+Vite ★ Browserify ★ NPM ★ Yarn  
+Chat GPT ★ Python  
 
 
 ## 🔗 Links
