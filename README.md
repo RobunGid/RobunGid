@@ -4,14 +4,14 @@ I'm a tech enthusiast who loves to learn about new tools, technologies and other
 ### ⚡ Skills:
 
 #### Frontend:
-HTML5, CSS3, JavaScript (ES6-ES15)
+HTML, CSS, JavaScript
 
 React, Redux, Redux-Toolkit, TailwindCSS
 
 Typescript
 
 #### Backend
-Python, Flask
+Python, Flask, SQLAlchemy
 
 #### DevOps / CybSec
 Linux (Fedora), Docker, Docker-compose, Bash
