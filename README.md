@@ -14,7 +14,7 @@ Typescript
 Python, Flask, SQLAlchemy
 
 #### DevOps / CybSec
-Linux (Fedora), Docker, Docker-compose, Bash
+Linux, Docker, Docker-compose, Bash, Github Actions
 
 #### Other
 Git, GitHub, ChatGPT
@@ -23,6 +23,6 @@ Git, GitHub, ChatGPT
 
 - Computer Networks
 - Reading
-- Duolingo (720+ days)
+- Duolingo (900+ days)
 - Chess
 - Note-taking (Obsidian)
