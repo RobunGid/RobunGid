@@ -17,7 +17,7 @@ Python, Flask, SQLAlchemy
 Linux, Docker, Docker-compose, Bash, Github Actions
 
 #### Other
-Git, GitHub, ChatGPT
+Git, GitHub
 
 ### 📖 Hobbies:
 
